@@ -1,3 +1,6 @@
+!pip install transformers
+!pip install tokenizers
+!pip install streamlit 
 import streamlit as st
 from transformers import pipeline
 import os
